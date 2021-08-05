@@ -1,0 +1,46 @@
+
+@media (min-width: 768px)  and (min-width: 1200px){
+
+    
+    .info-img img{
+        width: 25vw;
+        margin-right: 2rem;
+        
+    }
+
+    .info-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 8rem 50px;
+        
+    }
+
+    .info{
+        margin-left: 2rem;
+    }
+    
+    .info-title{
+        width: 50%;
+    }
+
+    .info-title h1{
+        
+        text-align: left;
+    }
+
+    .title-container h2{
+        font-size: 1.5rem;
+        margin: 4rem 4rem;
+    }
+    
+
+    .info-text{
+     
+        width: 35%;
+    }
+
+    button{
+        padding: 1rem;
+    }
+}
